@@ -24,7 +24,7 @@ A powerful JavaFX desktop application that compares product prices, ratings, and
 ![Light Theme](docs/light-theme.png)
 
 ### Product Comparison
-![Comparison Table](docs/comparison.png)
+![Comparison Table](docs/comparison-table.png)
 
 ## 🚀 Getting Started
 
