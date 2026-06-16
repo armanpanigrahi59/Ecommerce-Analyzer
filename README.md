@@ -2,7 +2,6 @@
 
 A powerful JavaFX desktop application that compares product prices, ratings, and offers across multiple Indian e-commerce platforms using AI-powered web scraping.
 
-![App Screenshot](docs/screenshot.png)
 
 ## ✨ Features
 
